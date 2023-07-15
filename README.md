@@ -6,7 +6,11 @@ Explore the collection of projects that showcase statistical analysis, machine l
     -  **Description:** The project predicts the price (in US dollars) of the diamonds based on their features. This was done by a team of 4 members including myself.
     - **Technologies Used:** The codes uses various statistical and machine learning techniques
     - **Results:** The Random Forest model performed very well with an accuracy of 98%
-      
+
+2. [Abalone Age Prediction]()
+    -  **Description:** The project predicts the age of an abalone based on its physical measurements. This was done by a team of 4 members including myself.
+    - **Technologies Used:** The notebooks uses various statistical, machine learning and deep learning techniques
+    - **Results:** The Random Forest model performed very well with an accuracy of 86%
 ## Feedback and Contact
 I welcome any feedback, suggestions, or questions you may have about the projects or the repository. Feel free to reach out to me via email at sanawickramasinghe@gmail.com
 
