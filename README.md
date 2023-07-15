@@ -3,8 +3,8 @@
 Explore the collection of projects that showcase statistical analysis, machine learning, data analysis and more. Each project has its own folder with codes, reports etc. I'm open to collaborations and appreciate feedback so feel free to reach out. Let's explore the exciting world of data science together!
 ## Projects
 1. [Diamond Price Prediction](https://github.com/SanjaniW/Data-Science-Projects/tree/main/Diamond%20Price%20Prediction)
-    -  **Description:** The project predicts the price (in US dollars) of the diamonds based on their features
-    - **Technologies Used:** The notebooks uses various statistical and machine learning techniques
+    -  **Description:** The project predicts the price (in US dollars) of the diamonds based on their features. This was done by a team of 4 members including myself.
+    - **Technologies Used:** The codes uses various statistical and machine learning techniques
     - **Results:** The Random Forest model performed very well with an accuracy of 98%
       
 ## Feedback and Contact
