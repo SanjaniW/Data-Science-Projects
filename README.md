@@ -12,7 +12,7 @@ Explore the collection of projects that showcase statistical analysis, machine l
     - **Technologies Used:** The notebooks uses various statistical, machine learning and deep learning techniques
     - **Results:** The Random Forest model performed very well with an accuracy of 86%
 
-3. Prediction of the Leptospirosis Status of the Patient()
+3. [Prediction of the Leptospirosis Status of the Patient](https://github.com/SanjaniW/Data-Science-Projects/tree/main/Leptospirosis%20status%20prediction)
     -  **Description:** The project predicts the leptospirosis status of the patient based on their demographic and clinical data. This was a kaggle competition between the students taking the data science module. There were 32 competitiors and I had the best entry. 
     - **Technologies Used:** The notebooks uses various statistical techniques.
     - **Results:** Logistic regression model performed very well with an accuracy of 91%
