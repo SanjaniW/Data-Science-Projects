@@ -11,6 +11,12 @@ Explore the collection of projects that showcase statistical analysis, machine l
     -  **Description:** The project predicts the age of an abalone based on its physical measurements. This was done by a team of 4 members including myself.
     - **Technologies Used:** The notebooks uses various statistical, machine learning and deep learning techniques
     - **Results:** The Random Forest model performed very well with an accuracy of 86%
+
+3. Prediction of the Leptospirosis Status of the Patient()
+    -  **Description:** The project predicts the leptospirosis status of the patient based on their demographic and clinical data. This was a kaggle competition between the students taking the data science module. There were 32 competitiors and I had the best entry. 
+    - **Technologies Used:** The notebooks uses various statistical techniques.
+    - **Results:** Logistic regression model performed very well with an accuracy of 91%
+      
 ## Feedback and Contact
 I welcome any feedback, suggestions, or questions you may have about the projects or the repository. Feel free to reach out to me via email at sanawickramasinghe@gmail.com
 
