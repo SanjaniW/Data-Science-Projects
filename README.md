@@ -18,7 +18,7 @@ Explore the collection of projects that showcase statistical analysis, machine l
     - **Results:** Logistic regression model performed very well with an accuracy of 91%
       
 4. [Smoke Detection](https://github.com/SanjaniW/Data-Science-Projects/tree/main/Smoke%20Detection)
-    -  **Description:** Build a model to detect smoke with the help of IOT data and trigger a fire alarm. This was done by a team of 4 members including myself.
+    -  **Description:** Build a model to detect smoke with the help of IOT data and trigger a fire alarm.
     - **Technologies Used:** The notebook demostrates a detailed EDA and model fitting. Python was used as the programming language.
     - **Results:** The Random Forest model performed very well with an accuracy of 99.9997%
 
