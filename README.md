@@ -17,6 +17,11 @@ Explore the collection of projects that showcase statistical analysis, machine l
     - **Technologies Used:** The notebooks uses various statistical techniques. Python was used as the programming language.
     - **Results:** Logistic regression model performed very well with an accuracy of 91%
       
+4. [Smoke Detection]()
+    -  **Description:** Build a model to detect smoke with the help of IOT data and trigger a fire alarm. This was done by a team of 4 members including myself.
+    - **Technologies Used:** The notebook demostrates a detailed EDA and model fitting. Python was used as the programming language.
+    - **Results:** The Random Forest model performed very well with an accuracy of 99.9997%
+
 ## Feedback and Contact
 I welcome any feedback, suggestions, or questions you may have about the projects or the repository. Feel free to reach out to me via email at sanawickramasinghe@gmail.com
 
